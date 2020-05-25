@@ -2,13 +2,10 @@
 branches: {
   }
 fileChange:
-  /favicon.ico:
-    newFile: !uuid '3a1f2f3e2c9bd8c5c4861e3eda9e40038278c9c8'
+  /LICENSE:
+    newFile: !uuid '89e08fb002e48e22363b7b3789a5470ffe71fea1'
     oldFile: null
-  /index.html:
-    newFile: !uuid '965d640c8a1cb96b028a5e1d013195def7ea573c'
-    oldFile: null
-gitCommitId: !uuid '164fe352175aeb12a88c5c4a086c379530aa3e0d'
+gitCommitId: !uuid '66241d7d1e64f68139597aa0440c622d9c182870'
 renames: {
   }
-revisionId: 12
+revisionId: 13
