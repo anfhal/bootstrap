@@ -2,16 +2,10 @@
 branches: {
   }
 fileChange:
-  /css:
-    newFile: !uuid 'fc76ba154e8e277861e798baea8307c0fa445d45'
-    oldFile: !uuid '753f687ea5afb80891ce9fc6947853f9347ca153'
-  /css/nutssss.css:
-    newFile: !uuid '8ed53c7f880dba1f58e1aab5084347816d83ae87'
-    oldFile: !uuid 'a4c4f258bebff718b7fb52b85b6c44800337a6af'
   /index.html:
-    newFile: !uuid 'ec8e374eb789984d2a8c7952c8fe12be22e15bac'
-    oldFile: !uuid '7d08cfa02de1138f180d09c0cdc1ce51b701eb2d'
-gitCommitId: !uuid '8e56e5627a72b4acfa05b87e0edd63242abea484'
+    newFile: !uuid 'd968abd9976bf55ab925c7c072a0d2fe218e5e5a'
+    oldFile: !uuid 'ec8e374eb789984d2a8c7952c8fe12be22e15bac'
+gitCommitId: !uuid '3b4150fb9647bdc601c9fc1146468cb46de0b54c'
 renames: {
   }
-revisionId: 19
+revisionId: 20
