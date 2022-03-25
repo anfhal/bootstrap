@@ -2,31 +2,31 @@ export default {
     index: {
         title: "你好，我是",
         me: [
-            "田琪扬",
-            "Web前端开发实习生",
-            "前端狂热粉"
+            "张昊",
+            "Python后端开发实习生",
+            "web狂热粉"
         ],
         bg: "./images/bg.jpg",
         subTitle: "即使前方的路看似绝境，也要有硬生生给自己开出一条路的勇气",
         contact: [{
                 name: "Blog",
                 icon: "fa-wordpress",
-                link: "https://blog.n0ts.cn/"
+                link: "https://wwwwww.baidu.com"
             },
             {
                 name: "Email",
                 icon: "fa-envelope",
-                link: "mailto:mail@n0ts.cn"
+                link: "mailto:zhanghao.mr@foxmail.com"
             },
             {
                 name: "Gitee",
                 icon: "fa-github",
-                link: "https://gitee.com/n0ts"
+                link: "https://gitee.com/"
             },
             {
                 name: "QQ",
                 icon: "fa-qq",
-                link: "https://wpa.qq.com/msgrd?v=3&uin=1656071287&site=qq&menu=yes"
+                link: "https://wpa.qq.com/msgrd?v=3&uin=2234200625&site=qq&menu=yes"
             }
         ],
         loadMore: {
@@ -38,7 +38,7 @@ export default {
         title: "关于我",
         laozi: {
             img: "./images/me.jpg",
-            content: "<span></span>我叫<b>田琪扬</b>，今年19岁，是岳阳职业技术学院的一名大二在读生，所学专业是<b>软件技术</b>；<br /><span></span>我个人对于网站开发我有着<b>浓厚的兴趣</b>，喜欢用学习到的知识去设计与编写一些独特的网站，毕竟兴趣才是我最好的老师。<br /><span></span>曾在<b>WEB省赛荣获三等奖</b>，获得过<b>国家励志奖学金</b>，在学校中也获得过<b>优秀青年志愿者</b>，<b>学习之星称号</b>，<b>优秀班委</b>等荣誉。"
+            content: "<span></span>我叫<b>张昊</b>，1997年生，应聘<b>Python后端web开发</b>；<br /><span></span>我个人对于网站开发我有着<b>浓厚的兴趣</b>，喜欢用学习到的知识去设计与编写一些独特的网站，毕竟兴趣才是我最好的老师。<br /><span></span>曾在<b>WEB省赛荣获三等奖</b>，获得过<b>国家励志奖学金</b>，在学校中也获得过<b>优秀青年志愿者</b>，<b>学习之星称号</b>，<b>优秀班委</b>等荣誉。"
         },
         ability: [{
                 icon: "fa-html5",
@@ -439,19 +439,19 @@ export default {
         title: "联系我",
         list: [{
                 name: "博客",
-                context: "blog.n0ts.cn"
+                context: "暂时不公开"
             },
             {
                 name: "邮箱",
-                context: "mail@n0ts.cn"
+                context: "zhanghaz.mr@foxmail.com"
             },
             {
                 name: "QQ",
-                context: "1656071287"
+                context: "2234200625"
             },
             {
                 name: "微信",
-                context: "n0tssss"
+                context: "暂不公开"
             }
         ]
     }
